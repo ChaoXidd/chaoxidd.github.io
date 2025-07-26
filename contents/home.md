@@ -6,11 +6,11 @@
 
 #### Contact
 
-Email: lzh0575[at]cug.edu.cn
+Email: lzh0575@cug.edu.cn
 
 #### Education
 B.E., Intelligence Science and Technology, China University of Geosciences(Wuhan), 2022—2026.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Embodied Ai, AIGC, Deep Learning.
 
