@@ -1,6 +1,6 @@
 
 
-[![ChaoXidd](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ChaoXidd)
+[![ChaoXidd](https://img.shields.io/badge/chaoxidd-github-blue?logo=github)](https://github.com/ChaoXidd)
 
 <!-- He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University. -->
 
